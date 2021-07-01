@@ -14,7 +14,6 @@ int main(){
   int caseNum;
   cin >> caseNum;
   for (int i = 0; i < caseNum; ++i) {
-
     vector<int> v;
     map<int, int> m;
     int num, tar;
